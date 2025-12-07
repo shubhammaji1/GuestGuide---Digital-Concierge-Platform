@@ -7,8 +7,8 @@ A production-ready SaaS platform that automates 90% of hotel guest communication
 - **Frontend**: React + TypeScript + Vite + Tailwind CSS
 - **Backend**: Node.js + Express + TypeScript
 - **Database**: Supabase (PostgreSQL-compatible)
-- **Vector DB**: Supabase Vector / Pinecone for RAG
-- **AI**: OpenAI / Claude / Gemini with RAG
+- **Vector DB**: Supabase Vector
+- **AI**: OpenAI / Claude / Gemini 
 
 ## 📁 Project Structure
 
@@ -61,4 +61,5 @@ See `.env.example` files in backend/ and frontend/ directories.
 ## 📄 License
 
 Proprietary
+
 
